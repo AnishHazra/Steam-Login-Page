@@ -23,6 +23,10 @@ This Flutter project demonstrates the implementation of a Steam-inspired login/s
 - Enable Email/Password and Phone sign-in methods in Firebase Authentication.
 
 ## Screenshots
+![Screenshot_1707803064](https://github.com/AnishHazra/Steam-Login-Page/assets/121759157/5ae00641-227e-468d-a32e-1d8e3f9bc518)
+![Screenshot_1707803067](https://github.com/AnishHazra/Steam-Login-Page/assets/121759157/9c73aef8-4e99-47a9-83c7-d40c29f5dc5b)
+![Screenshot_1707803072](https://github.com/AnishHazra/Steam-Login-Page/assets/121759157/2c67dae1-e46d-4556-a6fb-f79e9beaecf1)
+![Screenshot_1707803080](https://github.com/AnishHazra/Steam-Login-Page/assets/121759157/b4f4f5c1-1244-4c5a-852f-f4d97b377699)
 
 
 ## Setup
